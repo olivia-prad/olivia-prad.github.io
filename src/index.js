@@ -10,7 +10,7 @@ import {
   messagesReceivedPerMonth,
   dayActivPerMonth,
 } from '/scriptes/script.js'
-
+console.log("hey");
 var mois = [5, 6, 7, 8, 9, 10, 11, 12, 1, 2, 3, 4];
 ////////////////////////////////////////////////////////////////////////////////////
 ///////////////////////////Statistiques gloabales sur une année/////////////////////////////
